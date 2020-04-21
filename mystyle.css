@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: cadetblue;
+}
+
+.widget p {
+    display: inline-block;
+}
+
+
+.date {
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.1);
+    margin-bottom: 20px;
+    padding: 20px;   
+}
+
+.clock {
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgba(255,255,255,0.1);
+}
